@@ -1,5 +1,9 @@
 # 05-GCP
-Optional Lab, push Docker containers to GCP
+
+Målet med denne labøvelsen er å få Travis til å bygge et nytt container image hver gang koden i master branch endrer seg, og pushe dette til Google cloud platform sitt container registry 
+
+
+
 
 
 
